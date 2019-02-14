@@ -1,6 +1,6 @@
 # cli-pwned
 
-check in the terminal if your email adress has been breached.
+check in the terminal if an email adress has been breached.
 ## Install
 
 ```
