@@ -43,4 +43,4 @@ if(mailVal) {
     });
   
 }
-else {console.log(`This is not a valid email adress.`)}
+else {console.log(problem(`This is not a valid email adress.`))}
